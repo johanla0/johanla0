@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ivan aka @johanla0, Dipl. Eng. and a teacher
+- 👀 I’m interested in changing lives for the better by creating useful things
+- 🌱 I’m currently learning JavaScript  and Ruby on Rails
+- 💞️ I’m looking to collaborate on edtech services for teaching Russian as a foreign language
+- 📫 How to reach me: feel free to drop a line on FB @johanla0
