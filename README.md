@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ivan aka @johanla0, Dipl. Eng. and a teacher
+- 👋 Hi, I’m Ivan aka @johanla0, Dipl. Eng. and a CS Asst. Prof.
 - 👀 I’m interested in changing lives for the better by creating useful things
-- 🌱 My current area of interest is fullstack web development on JavaScript and Ruby on Rails
+- 🌱 My current area of interest is fullstack web development on Ruby on Rails
 - 💞️ I’m looking to collaborate on edtech services, especially for teaching Russian as a foreign language
 - 📫 How to reach me: feel free to drop a line: I'm johanla0 almost everywhere
