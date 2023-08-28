@@ -31,11 +31,13 @@ Fullstack web development on Ruby, specifically **Ruby on Rails**
 ![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=for-the-badge)
 ![stylelint Badge](https://img.shields.io/badge/stylelint-263238?logo=stylelint&logoColor=fff&style=for-the-badge)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
-![Interaction Design Foundation Badge](https://img.shields.io/badge/Interaction%20Design%20Foundation-2B2B2B?logo=interactiondesignfoundation&logoColor=fff&style=for-the-badge)
 
 ### Membership
-- [Member](https://www.interaction-design.org/members/ivan-dolgov/certificate/membership/mc_S2HtgzB0M) of the **Interaction Design Foundation**
-- [Member](https://ru.hexlet.io/u/johanla0) of the **Hexlet community**
+- Member of the **Interaction Design Foundation**
+- Member of the **Hexlet community**
+
+[![Interaction Design Foundation Badge](https://img.shields.io/badge/Interaction%20Design%20Foundation-2B2B2B?logo=interactiondesignfoundation&logoColor=fff&style=for-the-badge)](https://www.interaction-design.org/members/ivan-dolgov/certificate/membership/mc_S2HtgzB0M)
+[![Hexlet Badge](https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=for-the-badge)](https://ru.hexlet.io/u/johanla0)
 
 ### Interests
 - Landscape photography
