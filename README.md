@@ -8,7 +8,7 @@ Dipl. Eng. and a former CS Asst. Prof.
 ### My current area of interest is...
 Fullstack web development on Ruby, specifically **Ruby on Rails**
 
-- Performing full-stack web development using Ruby on Rails, Minitest, PostgreSQL, Redis, Sidekiq, Bootstrap, vanilla JavaScript and Hotwire (Stimulus, Turbo) since 2020
+- Performing full-stack web development using Ruby on Rails, Minitest, PostgreSQL, Redis, Sidekiq, Bootstrap, React, vanilla JavaScript and Hotwire (Stimulus, Turbo) since 2020
 - Interested in participating in startup related activities, especially **EdTech** services
 - UX enthusiast
 
@@ -22,6 +22,7 @@ Fullstack web development on Ruby, specifically **Ruby on Rails**
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
