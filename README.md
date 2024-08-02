@@ -41,12 +41,12 @@ Fullstack web development on Ruby, specifically **Ruby on Rails**
 [![Hexlet Badge](https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=for-the-badge)](https://ru.hexlet.io/u/johanla0)
 
 ### Interests
-- Landscape photography
+- Photography, including B&W film photography
 - Languages
 - Semiotics
 - Psychology
 - Bicycle
-- Guitar
+- Saxophone / guitar / bass
 - 3d printing
 
 ### Feel free to connect:
