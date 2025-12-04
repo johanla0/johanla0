@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Ivan Dolgov,
-Dipl. Eng. and a former CS Asst. Prof.
+Dipl. Eng. and a former CS Asst. Prof., currently Head of the AI Department of the National Movie Studio "Belarusfilm"
 
 - Taught computer science and Russian as a foreign language to the students of the preparatory faculty for years
 - 97% of students successfully passed university qualifying exams
