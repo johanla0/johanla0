@@ -11,6 +11,7 @@ Fullstack web development on Ruby, specifically **Ruby on Rails**
 - Performing full-stack web development using Ruby on Rails, Minitest, PostgreSQL, Redis, Sidekiq, Bootstrap, React, vanilla JavaScript and Hotwire (Stimulus, Turbo) since 2020
 - Interested in participating in startup related activities, especially **EdTech** services
 - UX enthusiast
+- ML / AI enthusiast
 
 ![Fedora GNU/Linux](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -20,6 +21,7 @@ Fullstack web development on Ruby, specifically **Ruby on Rails**
 ![Hotwire Badge](https://img.shields.io/badge/Hotwire-FFE801?logo=hotwire&logoColor=000&style=for-the-badge)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Sidekiq Badge](https://img.shields.io/badge/Sidekiq-B1003E?logo=sidekiq&logoColor=fff&style=for-the-badge)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
@@ -32,6 +34,10 @@ Fullstack web development on Ruby, specifically **Ruby on Rails**
 ![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=for-the-badge)
 ![stylelint Badge](https://img.shields.io/badge/stylelint-263238?logo=stylelint&logoColor=fff&style=for-the-badge)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff&style=for-the-badge)
+![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000&style=for-the-badge)
+![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff&style=for-the-badge)
 
 ### Membership
 - Member of the **Interaction Design Foundation**
