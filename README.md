@@ -11,7 +11,7 @@ Dipl. Eng. and a former CS Asst. Prof., currently Head of the AI Department of t
 Fullstack web development on Ruby, specifically **Ruby on Rails**
 
 - Performing full-stack web development using Ruby on Rails, Minitest, PostgreSQL, Redis, Sidekiq, Bootstrap, React, vanilla JavaScript and Hotwire (Stimulus, Turbo) since 2020
-- Interested in participating in startup related activities, especially **EdTech** services
+- Interested in participating in startup related activities, especially **EdTech**, **HealthTech** and **AgroTech** services
 - UX enthusiast
 - ML / AI enthusiast
 
