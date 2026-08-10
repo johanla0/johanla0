@@ -1,18 +1,18 @@
-### 👋 Hi, I’m Ivan Dolgov,
-Dipl. Eng. and a former CS Asst. Prof., currently Head of the AI Department of the National Movie Studio "Belarusfilm"
+### 👋 Hi, I’m Ivan Dolgau,
+Dipl. Eng. and a former CS Asst. Prof., currently Ruby on Rails fullstack developer
 
-- Organized the department's operations under sanctions pressure from scratch to the release of graphic and video products
+- As a Head of the AI Department of the National Movie Studio "Belarusfilm" organized the department's operations under sanctions pressure from scratch to the release of graphic and video products
 - Saved 28% of the film production budget (by Q1 2026) by implementing artificial intelligence technologies
-- Taught computer science and Russian as a foreign language to the students of the preparatory faculty for years
+- Taught computer science and Russian as a foreign language to the students of the preparatory faculty of Moscow State University for years
 - 97% of students successfully passed university qualifying exams
 - Lectured for the postgraduate education programs
 
 ### My current area of interest is...
 Fullstack web development on Ruby, specifically **Ruby on Rails**
 
-- Performing full-stack web development using Ruby on Rails, Minitest, PostgreSQL, Redis, Sidekiq, Bootstrap, React, vanilla JavaScript and Hotwire (Stimulus, Turbo) since 2020
+- Performing full-stack web development using Ruby on Rails, Minitest, PostgreSQL, Redis, Sidekiq, Bootstrap, React, vanilla JavaScript, Hotwire (Stimulus, Turbo) and ViewComponents since 2020
 - Interested in participating in startup related activities, especially **EdTech**, **HealthTech** and **AgroTech** services
-- UX enthusiast
+- UX and plain language enthusiast
 - ML / AI enthusiast
 
 ![Fedora GNU/Linux](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
@@ -37,9 +37,10 @@ Fullstack web development on Ruby, specifically **Ruby on Rails**
 ![stylelint Badge](https://img.shields.io/badge/stylelint-263238?logo=stylelint&logoColor=fff&style=for-the-badge)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff&style=for-the-badge)
-![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=for-the-badge)
+![Deepseek](https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff&style=for-the-badge)
+![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff&style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000&style=for-the-badge)
-![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff&style=for-the-badge)
+
 
 ### Membership
 - Member of the **Interaction Design Foundation**
